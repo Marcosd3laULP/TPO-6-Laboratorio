@@ -26,6 +26,8 @@ public class EntidadesProductos {
     //Buscador de productos por Rubro
     //Buscador de productos por Rango de precios
     //Buscador de productos por Nombre (Cargando por letra a letra)
+    //¡Estoy trabajando en la funcionalidad del buscador de productos, no lo toquen!!
+    //¡Puedo hacerlo!!
     //Se puede crear un buscador general para los 3 tipos de busqueda
     
     
