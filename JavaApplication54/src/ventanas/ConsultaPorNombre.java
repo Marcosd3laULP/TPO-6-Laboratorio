@@ -44,7 +44,7 @@ public class ConsultaPorNombre extends javax.swing.JInternalFrame {
                 {null, null, null, null}
             },
             new String [] {
-                "Title 1", "Title 2", "Title 3", "Title 4"
+                "Producto", "Precio", "Codigo", "Rubro"
             }
         ));
         jScrollPane1.setViewportView(jTable1);
