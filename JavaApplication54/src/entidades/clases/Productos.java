@@ -1,6 +1,6 @@
 
 
-package entidades;
+package entidades.clases;
 
 /**
  *
