@@ -23,7 +23,10 @@ public class EntidadesProductos {
         this.products = products;
     }
     
-    
+    //Buscador de productos por Rubro
+    //Buscador de productos por Rango de precios
+    //Buscador de productos por Nombre (Cargando por letra a letra)
+    //Se puede crear un buscador general para los 3 tipos de busqueda
     
     
 }
